@@ -40,7 +40,7 @@
             "cursorShape": "vintage",
             "font": 
             {
-                "face": "Lilex Nerd Font Mono",
+                "face": "FiraCode Nerd Font Mono Retina",
                 "size": 11
             },
             "opacity": 100,
@@ -100,6 +100,36 @@
                 "icon": "%LOCALAPPDATA%\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\debian.ico",
                 "name": "Debian",
                 "source": "Windows.Terminal.Wsl"
+            },
+            {
+                "colorScheme": "Tinacious Design (Light)",
+                "commandline": "\"%LOCALAPPDATA%\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe\"",
+                "cursorShape": "bar",
+                "font": 
+                {
+                    "size": 17
+                },
+                "guid": "{b407a4de-a537-41d0-a7d4-d4ef5f139f29}",
+                "hidden": false,
+                "icon": "ms-appx:///ProfileIcons/pwsh.png",
+                "name": "OhMyPosh PowerShell",
+                "startingDirectory": "%USERPROFILE%\\oh-my-posh\\",
+                "useAcrylic": false
+            },
+            {
+                "colorScheme": "Tinacious Design (Light)",
+                "commandline": "C:\\WINDOWS\\system32\\wsl.exe -d Debian",
+                "cursorShape": "bar",
+                "font": 
+                {
+                    "size": 17
+                },
+                "guid": "{e88bd90f-c76d-4e21-aeae-fde14450d4c6}",
+                "hidden": false,
+                "icon": "%LOCALAPPDATA%\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\debian.ico",
+                "name": "OhMyPosh Debian",
+                "startingDirectory": "~/nice",
+                "useAcrylic": false
             }
         ]
     },
@@ -127,6 +157,29 @@
             "selectionBackground": "#EEEEEC",
             "white": "#FAEBD7",
             "yellow": "#CDCD00"
+        },
+        {
+            "background": "#F7F7F7",
+            "black": "#000000",
+            "blue": "#325CC0",
+            "brightBlack": "#777777",
+            "brightBlue": "#007ACC",
+            "brightCyan": "#00AACB",
+            "brightGreen": "#60CB00",
+            "brightPurple": "#E64CE6",
+            "brightRed": "#F05050",
+            "brightWhite": "#F7F7F7",
+            "brightYellow": "#FFBC5D",
+            "cursorColor": "#007ACC",
+            "cyan": "#0083B2",
+            "foreground": "#000000",
+            "green": "#448C27",
+            "name": "Alabaster",
+            "purple": "#7A3E9D",
+            "red": "#AA3731",
+            "selectionBackground": "#BFDBFE",
+            "white": "#F7F7F7",
+            "yellow": "#CB9000"
         },
         {
             "background": "#262A33",
@@ -428,6 +481,29 @@
             "yellow": "#C18301"
         },
         {
+            "background": "#F1F1F1",
+            "black": "#212121",
+            "blue": "#008EC4",
+            "brightBlack": "#424242",
+            "brightBlue": "#20BBFC",
+            "brightCyan": "#4FB8CC",
+            "brightGreen": "#5FD7AF",
+            "brightPurple": "#6855DE",
+            "brightRed": "#FB007A",
+            "brightWhite": "#F1F1F1",
+            "brightYellow": "#F3E430",
+            "cursorColor": "#20BBFC",
+            "cyan": "#20A5BA",
+            "foreground": "#424242",
+            "green": "#10A778",
+            "name": "PencilLight",
+            "purple": "#523C79",
+            "red": "#C30771",
+            "selectionBackground": "#B6D6FD",
+            "white": "#D9D9D9",
+            "yellow": "#A89C14"
+        },
+        {
             "background": "#002B36",
             "black": "#002B36",
             "blue": "#268BD2",
@@ -518,6 +594,29 @@
             "selectionBackground": "#FFFFFF",
             "white": "#D3D7CF",
             "yellow": "#C4A000"
+        },
+        {
+            "background": "#F8F8FF",
+            "black": "#1D1D26",
+            "blue": "#00CBFF",
+            "brightBlack": "#636667",
+            "brightBlue": "#00CBFF",
+            "brightCyan": "#00D5D4",
+            "brightGreen": "#00D364",
+            "brightPurple": "#D783FF",
+            "brightRed": "#FF2F92",
+            "brightWhite": "#D5D6F3",
+            "brightYellow": "#FFD479",
+            "cursorColor": "#CBCBF0",
+            "cyan": "#00CECA",
+            "foreground": "#1D1D26",
+            "green": "#00D364",
+            "name": "Tinacious Design (Light)",
+            "purple": "#CC66FF",
+            "red": "#FF3399",
+            "selectionBackground": "#FF3399",
+            "white": "#CBCBF0",
+            "yellow": "#FFCC66"
         },
         {
             "background": "#151515",
