@@ -102,7 +102,7 @@
                 "source": "Windows.Terminal.Wsl"
             },
             {
-                "colorScheme": "Tinacious Design (Light)",
+                "colorScheme": "Campbell",
                 "commandline": "\"%LOCALAPPDATA%\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe\"",
                 "cursorShape": "bar",
                 "font": 
@@ -110,14 +110,14 @@
                     "size": 17
                 },
                 "guid": "{b407a4de-a537-41d0-a7d4-d4ef5f139f29}",
-                "hidden": false,
+                "hidden": true,
                 "icon": "ms-appx:///ProfileIcons/pwsh.png",
                 "name": "OhMyPosh PowerShell",
                 "startingDirectory": "%USERPROFILE%\\oh-my-posh\\",
                 "useAcrylic": false
             },
             {
-                "colorScheme": "Tinacious Design (Light)",
+                "colorScheme": "Tomorrow Night Burns",
                 "commandline": "C:\\WINDOWS\\system32\\wsl.exe -d Debian",
                 "cursorShape": "bar",
                 "font": 
@@ -125,7 +125,7 @@
                     "size": 17
                 },
                 "guid": "{e88bd90f-c76d-4e21-aeae-fde14450d4c6}",
-                "hidden": false,
+                "hidden": true,
                 "icon": "%LOCALAPPDATA%\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\debian.ico",
                 "name": "OhMyPosh Debian",
                 "startingDirectory": "~/nice",
